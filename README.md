@@ -17,5 +17,7 @@ Before running the test, make sure you have the following installed:
    ```bash
    pip install pytest seleniumbase
 
-3. **To run the test**  
+3. **To run the test**
+
+   ```bash
     pytest lawnstarter.py --demo
